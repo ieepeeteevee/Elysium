@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test500
 http://link.brightcove.com/services/player/bcpid756015033001?bckey=AQ~~,AAAApYJi_Ck~,GxhXCegT1Dp39ilhXuxMJxasUhVNZiil&bctid=2878862109001
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,youtube plugin
 plugin://plugin.video.youtube/play/?video_id=YoB8t0B4jx4
