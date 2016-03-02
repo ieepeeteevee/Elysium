@@ -29,3 +29,6 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
+#EXTINF:-1,IT: DISCOVERY
+http://best20.webhop.net:1477/live/ana/ana/354.ts
+
