@@ -4,6 +4,18 @@
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 
 
+#EXTINF:-1,Dave HD
+http://ipsatpro.com:8000/live/martin1/martin1/506.ts
+
+#EXTINF:-1,Discovery Turbo
+http://ipsatpro.com:8000/live/martin1/martin1/465.ts
+
+#EXTINF:-1,Sky Atlantic
+http://ipsatpro.com:8000/live/martin1/martin1/483.ts
+
+
+
+
 #EXTINF: -1,[COLOR green]  Sports: [/COLOR]
 
 #EXTINF:-1,Sky Sports News HD
