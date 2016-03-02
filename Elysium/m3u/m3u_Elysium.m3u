@@ -1,6 +1,6 @@
 #EXTINF: -1,[COLOR white] WECOME to ELYSIUM [/COLOR]
 #EXTINF:-1,Sports
-http://.m3u8
+
 #EXTINF: -1,[COLOR white] Sports [/COLOR]
 #EXTINF:-1,UK_SKY_SPORT_1_HD
 http://www.t12v.com:8000/live/400/400/1104.ts
@@ -17,6 +17,3 @@ http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
 #EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl", truTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 
-#EXTINF: -1,[COLOR white]Halo The Fall of Reach 2015[/COLOR]
-https://r17---sn-vgqs7n7s.c.docs.google.com/videoplayback?requiressl=yes&id=38204d87116d3019&itag=18&source=webdrive&app=explorer&ip=2601:243:c201:6426:80e6:9b84:edf9:c383&ipbits=32&expire=1456828681&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=42B2EA457582A6772CFFBAB307BD2AB19F12A465.9B9C26F93AE93273A01F1CB3216B8A30A66030FE&key=ck2&mm=30&mn=sn-vgqs7n7s&ms=nxu&mt=1456814225&mv=m&nh=IgpwcjA3Lm9yZDEyKgkxMjcuMC4wLjE&pl=26&cpn=vtPoEU0L0QvwmD3g&c=WEB&cver=html5
-#EXTINF: -1,[COLOR white]LORDFIRE LIVES[/COLOR]
