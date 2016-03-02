@@ -5,14 +5,11 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 #EXTINF:-1 
 
 
-#EXTINF:-1, NASA TV HD
-http://goo.gl/9eu0T6
- 
- 
 #EXTINF:-1,Sky One 1
 http://iptv-supplier.com:8000/live/Sbon/Sbon/289.m3u8
- 
 
+#EXTINF:-1, NASA TV HD
+http://goo.gl/9eu0T6
  
 #EXTINF:-1,NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
@@ -23,35 +20,8 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1,Sky Sports News HD
 http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
 
-#EXTINF:-1,Sky Sports 1
-http://cp.dmbshare.net:8000/live/burgess/burgess/2768.m3u8
-
-#EXTINF:-1,Sky Sports 1 HD
-http://www.t12v.com:8000/live/400/400/1104.ts
-
-#EXTINF:-1,Sky Sports 2 HD
-http://www.t12v.com:8000/live/400/400/1043.ts
-
-#EXTINF:-1,Sky Sports 2 HD    alt-link
-http://cp.dmbshare.net:8000/live/burgess/burgess/2766.m3u8
-
-#EXTINF:-1,Sky Sports 3 HD
-http://www.t12v.com:8000/live/400/400/1096.ts
-
-#EXTINF:-1,Sky Sports 3 HD   alt-link
-http://cp.dmbshare.net:8000/live/burgess/burgess/2765.m3u8
-
-#EXTINF:-1,Sky Sports 4 HD
-http://cp.dmbshare.net:8000/live/burgess/burgess/2764.m3u8
-
-#EXTINF:-1,Sky Sports 4 HD   alt-link
-http://www.t12v.com:8000/live/400/400/1094.ts
-
-#EXTINF:-1,Sky Sports 5 HD
-http://cp.dmbshare.net:8000/live/burgess/burgess/2763.m3u8
-
-#EXTINF:-1,Sky Sports 5 HD    alt-link
-http://www.t12v.com:8000/live/400/400/1040.ts
+#EXTINF: -1,[COLOR green]Fox Soccer Plus [/COLOR]
+http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 
 #EXTINF:-1,UK: Sky Movies Action HD
 http://ipsatpro.com:8000/live/martin1/martin1/511.ts
