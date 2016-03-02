@@ -5,11 +5,18 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 #EXTINF:-1 
 
 
-#EXTINF:-1, name=CBC NEWS – CANADA
-URL=rtmp://c.cdn.newschat.tv/edge%20playpath=cbc_live%20%20swfUrl=http://msnbclive.eu/player.swf%20%20page
+#EXTINF:-1, NASA TV HD
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?b?b*t$
  
-#EXTINF:-1, name=CBC News
-Url=http://www.livenewschat.eu/canada/
+ 
+NASA Media Channel
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
+ 
+NASA Education Channel
+http://edu.infozen.cshls.lldns.net/infozen/edu/edu/edu_1000.m3u8
+ 
+NASA Space Station Views
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF: -1,[COLOR green]  Sports: [/COLOR]
