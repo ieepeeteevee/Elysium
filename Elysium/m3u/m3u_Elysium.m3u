@@ -4,24 +4,24 @@
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 
 
-#EXTINF: -1,[COLOR green] Sports: [/COLOR]
+#EXTINF: -1,[COLOR green]  Sports: [/COLOR]
 
-#EXTINF:-1, Sky Sports News HD
+#EXTINF:-1,Sky Sports News HD
 http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
 
-#EXTINF:-1, Sky Sports 1
+#EXTINF:-1,Sky Sports 1
 http://cp.dmbshare.net:8000/live/burgess/burgess/2768.m3u8
 
-#EXTINF:-1, Sky Sports 1 HD
+#EXTINF:-1,Sky Sports 1 HD
 http://www.t12v.com:8000/live/400/400/1104.ts
 
-#EXTINF:-1, Sky Sports 2 HD
+#EXTINF:-1,Sky Sports 2 HD
 http://www.t12v.com:8000/live/400/400/1043.ts
 
-#EXTINF:-1, Sky Sports 2 HD  alt-link
+#EXTINF:-1,Sky Sports 2 HD  alt-link
 http://cp.dmbshare.net:8000/live/burgess/burgess/2766.m3u8
 
-#EXTINF:-1, Sky Sports 3 HD
+#EXTINF:-1,Sky Sports 3 HD
 http://www.t12v.com:8000/live/400/400/1096.ts
 
 #EXTINF:-1,Sky Sports 3 HD alt-link
