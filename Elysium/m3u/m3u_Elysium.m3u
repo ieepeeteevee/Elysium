@@ -5,8 +5,8 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 #EXTINF:-1 
 
 
-#EXTINF:-1,DISCOVERY
-http://188.247.133.26:8888/ipvt_003
+#EXTINF:-1,DE : Sky Syfy*
+http://62.210.162.88:80/live/DE117/162701032016/2108.ts
 
 
 #EXTINF: -1,[COLOR green]  Sports: [/COLOR]
