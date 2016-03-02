@@ -1,4 +1,6 @@
 #EXTINF: -1,[COLOR white] WECOME to ELYSIUM [/COLOR]
+#EXTINF:-1,Sports
+http://.m3u8
 
 #EXTINF:-1,UK_SKY_SPORT_1_HD
 http://www.t12v.com:8000/live/400/400/1104.ts
@@ -8,8 +10,7 @@ http://superiptvlista.dyndns.tv:80/live/55alen/55alen1/258.ts
 http://cp.dmbshare.net:8000/live/burgess/burgess/2768.m3u8
 #EXTINF:-1,UK: SKY SPORT 1 HD
 http://cp.dmbshare.net:8000/live/burgess/burgess/2767.m3u8
-#EXTINF:-1,UK_SKY_news_HD
-http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
+
 #EXTINF:-1,Sky Sports News HD
 http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
 
