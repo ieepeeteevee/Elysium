@@ -18,7 +18,8 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF: -1,[COLOR green]  Sports: [/COLOR]
 
 #EXTINF:-1,[COLOR green]Sky Sports News HD [/COLOR]
-http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
+EXTINF:-1,FS2222
+rtmp://31.220.2.149:80/live<playpath>fox2ree <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.4.2/jwplayer.flash.swf <pageUrl>http://yotv.co/embedo.php?live=fox2ree&vw=620&vh=490 <objectEncoding>
 
 #EXTINF: -1,[COLOR green]Bt Sport 1 [/COLOR]
 http://iptv-supplier.com:8000/live/Sbon/Sbon/282.m3u8
