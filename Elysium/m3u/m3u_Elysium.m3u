@@ -33,7 +33,9 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
+#EXTINF:-1,test
+http://site1.thenetheads.info/jetstore1/Jan2015/13/John.Wick.2014.1080p.WEB-DL.DD5.1.H264-RARBG/John.Wick.2014.1080p.WEB-DL.DD5.1.H264-RARBG.mkv
+
 #EXTINF:-1,FS2
 rtmp://31.220.2.149:80/live<playpath>fox2ree <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.4.2/jwplayer.flash.swf <pageUrl>http://yotv.co/embedo.php?live=fox2ree&vw=620&vh=490 <objectEncoding>
-#EXTINF:-1,F2
-http://site1.thenetheads.info/jetstore1/Jan2015/13/John.Wick.2014.1080p.WEB-DL.DD5.1.H264-RARBG/John.Wick.2014.1080p.WEB-DL.DD5.1.H264-RARBG.mkv
+
